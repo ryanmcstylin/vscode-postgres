@@ -30,7 +30,11 @@
         "aliases": [
           "Postgres"
         ],
-        "configuration": "./language-configuration.json"
+        "configuration": "./language-configuration.json",
+        "icon": {
+          "dark": "./resources/dark/file.svg",
+          "light": "./resources/light/file.svg"
+        }
       }
     ],
     "grammars": [
